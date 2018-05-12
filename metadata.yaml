@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Clodd, Edw. (Edward)
     - Clodd, E.
-    birthdate: &id001 1840
+    birthdate: 1840
     deathdate: 1930
     gutenberg_agent_id: '40063'
     url: http://www.gutenberg.org/2009/agents/40063
@@ -17,11 +17,13 @@ creator:
   author:
     agent_name: Williams, Alfred M. (Alfred Mason)
     alias: Williams, Alfred Mason
-    birthdate: *id001
+    birthdate: 1840
     deathdate: 1896
     gutenberg_agent_id: '43190'
     url: http://www.gutenberg.org/2009/agents/43190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45277#Studies-in-Folk-Song-and-Popular-Poetry
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
