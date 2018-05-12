@@ -1,0 +1,42 @@
+_repo: Studies-in-Folk-Song-and-Popular-Poetry_45277
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Clodd, Edward
+    aliases:
+    - Clodd, Edw. (Edward)
+    - Clodd, E.
+    birthdate: &id001 1840
+    deathdate: 1930
+    gutenberg_agent_id: '40063'
+    url: http://www.gutenberg.org/2009/agents/40063
+covers:
+- cover_type: archival
+  image_path: 45277-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Alfred M. (Alfred Mason)
+    alias: Williams, Alfred Mason
+    birthdate: *id001
+    deathdate: 1896
+    gutenberg_agent_id: '43190'
+    url: http://www.gutenberg.org/2009/agents/43190
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Folk songs -- History and criticism'
+tableOfContents: American sea songs -- Folk-songs of the Civil War -- English and
+  Scottish popular ballads -- Lady Nairne and her songs -- Sir Samuel Ferguson and
+  Celtic poetry -- William Thom, the weaver poet -- Folk-songs of lower Brittany --
+  The folk-songs of Poitou -- Some ancient Portuguese ballads -- Hungarian folk-songs
+  -- Folk-songs of Roumania.
+title: Studies in Folk-Song and Popular Poetry
+url: http://www.gutenberg.org/ebooks/45277
